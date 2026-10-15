@@ -1,0 +1,6 @@
+{
+  "name": "RIVALS - 1v1 FPS Competitive Arena",
+  "description": "Fast-paced 1v1 First Person Shooter clone of Roblox Rivals with Luau-style movement physics, high-tick rate matchmaking, anti-cheat telemetry, seasonal ranked leaderboards, community mods studio, and AI predictive analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
